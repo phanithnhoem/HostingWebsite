@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Meoway",
+        "species" : "Cat",
+        "foods" : {
+            "like" : ["tuna", "catnip"],
+            "dislike" : ["ham", "zucchini"]
+        }
+    },
+    {
+        "name" : "Barky",
+        "species" : "Dog",
+        "foods" : {
+            "like" : ["bonce", "carrot"],
+            "dislike" : ["tuna"]
+        }
+    },
+    {
+        "name" : "Purrpawe",
+        "species" : "cat",
+        "foods" : {
+            "like" : ["mice"],
+            "dislike" : ["cookies"]
+        }
+    }
+]
